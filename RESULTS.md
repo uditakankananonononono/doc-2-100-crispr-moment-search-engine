@@ -1,12 +1,12 @@
-# DOC-2-100 F0: DOCUMENTATION-UNRESOLVED, zero success credit
+# DOC-2-100 F0: UNRESOLVED (documentation-only), zero success credit
 
-Builder assessment pending independent review. Documentation-only fixed-set audit; no corpus retrieval, API work-record queries, PubMed XML, ISEF search/results/project pages, hypothesis generation, labels or outcome scoring. No scientific success claim.
+Independent gate SCOPED PASS for honest documentation-only UNRESOLVED, zero credit; wording corrections incorporated. Missing documentary support is UNKNOWN, not evidence of corpus impossibility. Documentation-only fixed-set audit; no corpus retrieval, API work-record queries, PubMed XML, ISEF search/results/project pages, hypothesis generation, labels or outcome scoring. No scientific success claim.
 
 Lock-1 958df9b4ff78b3cfbd1d61956e087a907fdc3fa0 verified by gate, server commit/tag/release 2026-10-09T21:32:34Z. First admission fetch 2026-10-09T21:34:05.980104Z, strictly later. Discovery remains pre-lock exposure, not audit evidence.
 
 ## Verdict and admissible designs
 
-DOCUMENTATION-UNRESOLVED (metadata-only lane). Admissible documentation designs: OpenAlex A/B/C, PubMed D/E/F, ISEF G. No common-protocol combination documenting cross-corpus as-of comparability found. These documentation pages do not establish recoverable historical inputs, independent target labels, fixed domains/capability definitions or validated opportunity units. Missing documentary support is UNKNOWN, not evidence of corpus impossibility.
+UNRESOLVED (documentation-only). Admissible documentation designs: OpenAlex A/B/C, PubMed D/E/F, ISEF G. No common-protocol combination documenting cross-corpus as-of comparability found. B is the route most relevant to snapshot vintage documentation; its UNADMITTED status makes OpenAlex H1/H6 UNKNOWN partly due to admission failure, not a read-and-silent documentary absence. These documentation pages do not establish recoverable historical inputs, independent target labels, fixed domains/capability definitions or validated opportunity units. Missing documentary support is UNKNOWN, not evidence of corpus impossibility.
 
 No all-required H1-H6 GO. No full-set STOP: no admitted route states the specific affirmative incompatibility (required metadata overwritten without historical retention) for every admissible design. Current publication-date filtering alone is not a demonstrated as-of design; a current-state trend lead is not the requested historical backtest. No third capability defined or evaluated, no domains/labels selected. Other routes/corpora were not audited in F0.
 
@@ -14,12 +14,12 @@ No all-required H1-H6 GO. No full-set STOP: no admitted route states the specifi
 
 | Gate | OpenAlex documentation A/C (B unadmitted) | PubMed D/E/F | ISEF homepage G |
 |---|---|---|---|
-| H1 historical evidence state | UNKNOWN: ingestion/update/publication distinctions documented; required as-of feature vintages not documented by admitted routes | UNKNOWN: annual maintained baseline and revised/deleted daily records documented, recoverable vintages not established | UNKNOWN: homepage supplies no historical input provenance |
+| H1 historical evidence state | UNKNOWN: ingestion/update/publication distinctions documented; snapshot-vintage route B UNADMITTED, required as-of features unverified | UNKNOWN: annual maintained baseline and revised/deleted daily records documented, recoverable vintages not established | UNKNOWN: homepage supplies no historical input provenance |
 | H2 input-target separation | UNKNOWN: no independent discovery labels or excluded target audit | UNKNOWN: no discovery labels/input-target separation documented | UNKNOWN: finalist filter is survivorship, not all-opportunity denominator; student project labels are not discovery events |
 | H3 maturity/capability/testability definitions | UNKNOWN; no capability/domain defined in F0 | UNKNOWN | UNKNOWN |
 | H4 independent cutoffs/domains/units | UNKNOWN; no >=3 cutoff/domain independent target audit | UNKNOWN; annual baseline is not three independent opportunity domains | UNKNOWN; homepage no project labels/author-method independence |
-| H5 access/scale/reuse | UNKNOWN: B rejected; admitted schema pages not full access/terms documentation | Partial support: free PubMed data, copyright caveat on some abstracts; full required-content rights UNKNOWN | UNKNOWN: homepage legal/privacy link not followed and no reuse terms stated |
-| H6 rebuild/revision sensitivity | UNKNOWN: update timestamps do not establish recoverable old values | UNKNOWN: replacement workflow documented, archive retention/rebuild for past cutoffs not documented here | UNKNOWN |
+| H5 access/scale/reuse | UNKNOWN: B rejected; admitted schema pages not full access/terms documentation | UNKNOWN (partial documentation: no fees, some abstracts copyright-protected, redistribution must disclose non-current data) | UNKNOWN: homepage legal/privacy link not followed and no reuse terms stated |
+| H6 rebuild/revision sensitivity | UNKNOWN: B snapshot route UNADMITTED; update timestamps alone do not establish recoverable old values | UNKNOWN: replacement workflow documented, archive retention/rebuild for past cutoffs not documented here | UNKNOWN |
 
 ## Own-record wording and date semantics
 
@@ -39,9 +39,9 @@ G displays ISEF Projects Database, Finalist Last Name filter and all-matching ve
 
 ## Admission, fields and counts
 
-A/C/D/E/F/G admitted with expected identifiers; E exact expected revision matched. B both HTTP attempts redirected from registered snapshot-format route to https://help.openalex.org/access/snapshot/ and lacked expected Snapshot data format marker. Both rejected UNADMITTED, not a replacement route admission. No redirected-content claim used as admitted support; no links followed, no new route substituted. Browser fallback not used because identifier mismatch persisted on substantive redirected page, not missing-render shell. Byte counts, UTC, hashes/status/final URLs retained in evidence.
+A/C/D/E/F/G admitted with expected identifiers; E exact expected revision matched. B both HTTP attempts redirected from registered snapshot-format route to https://help.openalex.org/access/snapshot/ and lacked expected Snapshot data format marker. Both rejected UNADMITTED, not a replacement route admission. No redirected-content claim used as admitted support; no links followed, no new route substituted. Browser fallback not used because identifier mismatch persisted on substantive redirected page, not missing-render shell. This is a judgement allowed by the lock; OpenAlex snapshot documentation remains unread at its registered address. Redirect target page content WAS seen during rejection: non-registered page exposure, not used as support. Byte counts, UTC, hashes/status/final URLs retained in evidence.
 
-A fields: common identity/influence/provenance definitions, revision date. C fields: work schema/date semantics, citations/counts, topic/concept classification, abstract provenance, authorship/references/retraction metadata definitions. Schema examples and percentages are documentation text, not corpus samples or performance tests. D/E/F: baseline/update workflow, revision dates, file-number ranges, citation-count description, access/terms/copyright. E describes more40million citations and baseline files numbered1 through1334; these are corpus/file counts, not independent discovery units. Actual historical/opportunity unit counts UNKNOWN. G: homepage category/country/state/finalist filters and all/winning selector; no project list read. A/B/C/D/F/G mutable documentation versions remain raw-capture/UTC-bound, not historic document vintages.
+A fields: common identity/influence/provenance definitions, revision date. C fields: work schema/date semantics, citations/counts, topic/concept classification, abstract provenance, authorship/references/retraction metadata definitions. Schema examples and percentages are documentation text, not corpus samples or performance tests. D/E/F: baseline/update workflow, revision dates, file-number ranges, citation-count description, access/terms/copyright. E describes more40million citations and baseline files numbered1 through1334; these are corpus/file counts as displayed on capture date (mutable page, builder-reported), not independent discovery units and not used for any scale conclusion. Actual historical/opportunity unit counts UNKNOWN. G: homepage category/country/state/finalist filters and all/winning selector; no project list read. A/B/C/D/F/G mutable documentation versions remain raw-capture/UTC-bound, not historic document vintages.
 
 ## Exposure ledger
 
